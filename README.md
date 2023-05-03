@@ -4,6 +4,11 @@ Neuron Dump
 
 The main idea of this repository is to share ideas, learnings, and keep everything documented in a single place.
 
+<p>
+  <img src="./assets/content.png" alt="image_alt_text">
+</p>
+
+
 # 🌊 Guidelines
 
 Software development generally involves many small steps that can accelerate the development of a project. Through guidelines, we will generate and document basic and consistent knowledge that involves good practices in general, from situations that we have observed in our years of practice building engineering solutions.
