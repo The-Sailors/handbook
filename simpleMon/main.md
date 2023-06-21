@@ -22,8 +22,18 @@ The differential with [other platforms](#market-examples) must be a perfect expe
 
 - What do you think if we instrumented some user flow through some extension in the browser, the person executes the flow on his machine, while we are tracking all the routes that are being called
 
+- Agents from multiple locations
+
+- Exportable Audit Report
+
+- event oriented
+
+- API-First
 
 
+# V0 mind map
+
+![Alt text](image-3.png)
 
 # Market Examples
 
@@ -35,7 +45,17 @@ The differential with [other platforms](#market-examples) must be a perfect expe
 The experience to monitor a simple route was terrible, seems to be a platform made by engineers for engineers, which is not a problem, but I imagined that what we want here is to build the opposite. A platform that made it easy for anyone to know how my product is going on.
 ![Alt text](image-1.png)
 
+## Output/Integrations
 
+- Slack
+- Email
+- Webhook
+- Discord
+- SNS
+- SMS/Twilio
+- Zapier
+- Zendesk/NDesk/Jira
+- Prometheus
 
 
 ## Uptrends lack:
